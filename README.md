@@ -1,5 +1,8 @@
 # group-5-data-warehouse-finals-2
 
+to install react(frontend) dependencies: (run in terminal)
+- npx creat-react-app
+
 to run:
 
 TERMINAL 1:
@@ -7,7 +10,7 @@ TERMINAL 1:
 - python main.py
 
 TERMINAL 2:
-- cd ffrontend
+- cd frontend
 - npm start
 
 TERMINAL 3: check if its connencted to supabase
